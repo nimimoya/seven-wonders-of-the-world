@@ -1,0 +1,35 @@
+main{
+  position: relative;
+  /* top: 0;
+  left: 200px; */
+  margin-left: 200px;
+
+}
+
+nav{
+/* position: fixed - fixes the position of the element so its 
+fixed when scrolling  here the nav element */
+position: fixed;
+top: 0;
+left: 0;
+}
+
+/* image */
+img {
+  width: 100%;
+}
+
+.label {
+  color: blue;
+  font-weight: bold;
+  font-size: larger;
+}
+
+.caption {
+  color: #777;
+}
+
+.copyright {
+  font-style: italic;
+  color: #777;
+}
